@@ -2,7 +2,7 @@
 
 ## 📘 Academic Project Notice
 
-This repository contains the results of an academic project developed collaboratively with other students. It was completed as part of a data mining and software analysis course. The work presented here is **for educational and research purposes only**.
+This repository contains the information and files of an academic project developed. It was completed as part of a data mining and software analysis course. The work presented here is **for educational and research purposes only**.
 
 ---
 
