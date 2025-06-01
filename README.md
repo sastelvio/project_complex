@@ -87,4 +87,4 @@ Further analysis will involve:
 
 ## 📌 Disclaimer
 
-This work is an academic exercise conducted with fellow students. It is not affiliated with or endorsed by the Debian or Ubuntu projects. All analysis and interpretations are intended for learning and research purposes only.
+This work is an academic exercise. It is not affiliated with or endorsed by the Debian or Ubuntu projects, or any other company, organization, or individual that may appear in the project files. All analysis and interpretations are intended for learning and research purposes only.
