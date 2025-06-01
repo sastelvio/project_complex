@@ -1,4 +1,4 @@
-# 🧠 Debian Contributor Analysis – Academic Data Mining Project
+# 🧠 PROCOM - PROJECT COMPLEX - Project Debian
 
 ## 📘 Academic Project Notice
 
